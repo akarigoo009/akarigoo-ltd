@@ -1,4 +1,4 @@
 # akarigoo-ltd
-UK's Leading Certified Odoo Gold Partner | Odoo Experts
-Akarigo is a certified Odoo gold partner in the UK. We provide the best Odoo Implementation, Development, and technical support services across all sectors.
-https://akarigo.com/
+Odoo Implementation Partner | Odoo ERP Support - Akarigo
+Akarigo, the best Odoo Implementation Partners in the UK, offers the best Odoo Development Services in the UK across almost all sectors of the market.
+https://akarigo.com/odoo-implementation-partner/
